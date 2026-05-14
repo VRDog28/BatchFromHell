@@ -1,3 +1,6 @@
 # BatchFromHell
 A very dangerous batch script
-![](https://github.com/VRDog28/BatchFromHell/main/screenshots/screenshot.png)
+# Screenshot
+![](https://raw.githubusercontent.com/VRDog28/BatchFromHell/main/screenshots/screenshot.png)
+# Full showcase
+https://youtu.be/yBLrtd518NU
